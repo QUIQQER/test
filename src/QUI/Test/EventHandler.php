@@ -19,7 +19,7 @@ class EventHandler
     /**
      * @return ExternalImage
      */
-    public static function onUserChangePassword(UserInterfaces $User)
+    public static function onUserGetAvatar(UserInterfaces $User)
     {
         return new ExternalImage(
             'https://api.adorable.io/avatars/200/abott@adorable.png'
