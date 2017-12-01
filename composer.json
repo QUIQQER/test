@@ -20,7 +20,7 @@
     "php": ">=5.3",
     "quiqqer/quiqqer": "*@dev"
   },
-  "autoload-dev": {
+  "autoload": {
     "psr-4": {
       "QUI\\Test\\": "src/QUI/Test"
     }
