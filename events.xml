@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <events>
-    <event on="onUserGetAvatar" fire="\QUI\EventHandler::onUserChangePassword"/>
+    <event on="onUserGetAvatar" fire="\QUI\Test\EventHandler::onUserGetAvatar"/>
 </events>
