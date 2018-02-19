@@ -5,6 +5,10 @@
             <de><![CDATA[QUIQQER - Test]]></de>
             <en><![CDATA[QUIQQER - Test]]></en>
         </locale>
+          <locale name="package.description">
+            <de><![CDATA[Super lange Beschreibung]]></de>
+            <en><![CDATA[Super long description]]></en>
+        </locale>
         <locale name="package.tour">
             <de><![CDATA[Modul zum testen]]></de>
             <en><![CDATA[testing module]]></en>
