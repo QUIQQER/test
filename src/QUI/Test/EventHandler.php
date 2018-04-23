@@ -35,6 +35,9 @@ class EventHandler
      */
     public static function onInstall(Package $Package)
     {
+        Log::writeRecursive('ON INSTALL');
+        Log::writeRecursive($Package->getName());
+
         if ($Package->getName() === 'quiqqer/test') {
             Log::writeRecursive('QUIQQER TEST INSTALL');
         }
