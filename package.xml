@@ -7,13 +7,7 @@
         <description>
             <locale group="quiqqer/test" var="package.description"/>
         </description>
-
-        <image src="URL_OPT_DIR/quiqqer/countries/bin/images/Logo.png"/>
-
-        <!--<preview>-->
-            <!--<image src="URL_OPT_DIR/quiqqer/countries/"/>-->
-        <!--</preview>-->
-
+        
         <support>
             <email>support@pcsg.de</email>
             <forum>https://community.quiqqer.com</forum>
