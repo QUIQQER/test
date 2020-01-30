@@ -3,6 +3,7 @@
     "type": "quiqqer-plugin",
     "description": "Its an installation test. This package do nothing. TEST STRING 3000",
     "license": "MIT",
+    "test": "test2",
     "authors": [
         {
             "name": "Henning Leutz",
