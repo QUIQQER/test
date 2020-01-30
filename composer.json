@@ -1,7 +1,7 @@
 {
     "name": "quiqqer\/test",
     "type": "quiqqer-plugin",
-    "description": "Its an installation test. This package do nothing",
+    "description": "Its an installation test. This package do nothing. TEST STRING 3000",
     "license": "MIT",
     "authors": [
         {
