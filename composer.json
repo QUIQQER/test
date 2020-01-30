@@ -1,9 +1,8 @@
 {
     "name": "quiqqer\/test",
     "type": "quiqqer-plugin",
-    "description": "Its an installation test. This package do nothing. TEST STRING 5674745457457000",
+    "description": "Its an installation test. This package do nothing. TEST STRING 6000 ew089f 0203 2003232 4",
     "license": "MIT",
-    "test": "test2",
     "authors": [
         {
             "name": "Henning Leutz",
@@ -16,6 +15,7 @@
         "email": "support@pcsg.de",
         "url": "http:\/\/www.pcsg.de"
     },
+    "test": "test2000",
     "require": {
         "php": ">=5.3",
         "quiqqer\/quiqqer": "*@dev"
