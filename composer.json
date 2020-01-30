@@ -15,6 +15,7 @@
         "email": "support@pcsg.de",
         "url": "http:\/\/www.pcsg.de"
     },
+    "test": "test2000",
     "require": {
         "php": ">=5.3",
         "quiqqer\/quiqqer": "*@dev"
