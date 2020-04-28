@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item parent="/apps/" name="tests" icon="fa fa-check">
+        Test
+    </item>
+</menu>
